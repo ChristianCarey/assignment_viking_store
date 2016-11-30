@@ -7,4 +7,3 @@ class OrderProduct < ApplicationRecord
     order_product.save
   end
 end
-
